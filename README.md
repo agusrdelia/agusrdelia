@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Soy un desarrollador de front-end con una visión 360 del producto y más de 10 años de experiencia trabajando entornos tecnológicos de alta exigencia y ritmo rápido para aplicaciones de alto trafico. 
+Front-end developer with experience and comprehensive understanding of product dynamics. Over a decade working in high-demand, fast-paced technological environments. Throughout my professional career, I have been a fundamental member of various projects aimed at enhancing performance and user experience.
 
-Me considero una persona organizada y que lleva a cabo de forma confiable múltiples prioridades. Voluntad de asumir responsabilidades adicionales para alcanzar los objetivos del equipo. Estoy capacitado para definir y mantener librarías y aplicaciones grandes, complejas y bien diseñadas. 
+My standout skills include the ability to define and maintain large, complex, and well-designed libraries and applications. I am highly organized and adept at managing multiple priorities effectively, as well as being predisposed to taking on additional responsibilities to achieve team objectives.
 
-Actualmente me encuentro liderando y desarrollando la migración de aplicaciones a sistemas Headless. Dando soporte, capacitaciones y liderando el equipo de tecnología.
+I am a believer in the importance of staying updated with the latest trends and technologies. This enables me to apply best practices and adopt innovative approaches in my projects. Additionally, I enjoy collaborating with multidisciplinary teams to generate creative ideas and effective solutions that drive product success. 
 
-
+My goal is not only to meet project requirements but to exceed client and team expectations in every task I undertake. I am constantly seeking opportunities to learn and grow professionally, as I firmly believe that continuous learning is key to staying relevant in the ever-evolving field of technology.
