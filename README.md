@@ -9,6 +9,7 @@ Soy Senior Frontend Engineer con base en Buenos Aires, Argentina. Trabajo como C
 A lo largo de mi carrera diseñé e implementé arquitecturas frontend para sitios con **más de 40 millones de usuarios**, trabajé con equipos de Google en optimización de performance y desarrollé proyectos enterprise bajo **WordPress VIP** con code review directo de Automattic.
 
 Integro IA generativa como parte estructural de mi flujo de trabajo — no como experimento, sino como práctica diaria que impacta velocidad y calidad.
+
 ---
 ## Stack
 
