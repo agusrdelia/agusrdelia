@@ -1,14 +1,9 @@
 # Agustín — Senior Frontend Engineer
 
-> Construyo interfaces de alto rendimiento a escala global. 15 años de experiencia en medios digitales, ecommerce y productos enterprise.
 ---
 ##  Sobre mí
 
-Soy Senior Frontend Engineer con base en Buenos Aires, Argentina. Trabajo como CTO y desarrollador principal en [Iconosur](https://iconosur.com), una agencia de tecnología y UX/UI con clientes en LATAM y EE.UU.
-
-A lo largo de mi carrera diseñé e implementé arquitecturas frontend para sitios con **más de 40 millones de usuarios**, trabajé con equipos de Google en optimización de performance y desarrollé proyectos enterprise bajo **WordPress VIP** con code review directo de Automattic.
-
-Integro IA generativa como parte estructural de mi flujo de trabajo — no como experimento, sino como práctica diaria que impacta velocidad y calidad.
+Soy Senior Frontend Engineer con base en Buenos Aires, Argentina. Trabajo como Tech Lead en [Iconosur](https://iconosur.com), una agencia de tecnología y UX/UI con clientes en LATAM y EE.UU. 
 
 ---
 ## Stack
@@ -50,7 +45,7 @@ Integro IA generativa como parte estructural de mi flujo de trabajo — no como 
 
 Trabajé con marcas globales y líderes de industria en proyectos de alta exigencia técnica:
 
-`CNN en Español` · `TNT Sports` · `Google` · `Fiserv` · `Claro` · `El Debate MX` · `Impremedia` · `EWTN News` · `Clarín` · `Philip Morris International` · `Clarín 365` · `ARSAT`
+`CNN en Español` · `TNT Sports` · `Google` · `Fiserv` · `Claro` · `El Debate MX` · `Impremedia` · `EWTN News` · `Clarín` · `Philip Morris International` · `Clarín 365` · `ARSAT` · `Unincef` · `Fox Sports` · `Banco Supervielle` · `Mc Donalds CL` · `Prosegur España` · `Tarjeta Naranja` · `Ole` · `Fox Sports` · `Conmebol` 
 
 ---
 
