@@ -1,9 +1,7 @@
 # Agustín — Senior Frontend Engineer
 
----
-##  Sobre mí
 
-Soy Senior Frontend Engineer con base en Buenos Aires, Argentina. Trabajo como Tech Lead en [Iconosur](https://iconosur.com), una agencia de tecnología y UX/UI con clientes en LATAM y EE.UU. 
+Senior Frontend Engineer con base en Buenos Aires, Argentina. Trabajo como Tech Lead en [Iconosur](https://iconosur.com), una agencia de tecnología y UX/UI con clientes en LATAM y EE.UU. 
 
 ---
 ## Stack
